@@ -39,10 +39,10 @@ Initially, the Lambda function was assigned the `AmazonEC2FullAccess` policy. Ho
 ]
 ```
 
-Why This Is Valuable in Production
+## Why This Is Valuable in Production
 For production environments, data durability and disaster recovery are critical. This solution ensures that all active storage volumes are regularly backed up across every AWS region, minimizing data loss risks due to hardware failures, human error, or malicious activity.
 
-Tech Stack
+## Tech Stack
 - AWS Lambda – Serverless function execution
 - Boto3 – Python SDK for AWS
 - Amazon EBS – Elastic Block Store
