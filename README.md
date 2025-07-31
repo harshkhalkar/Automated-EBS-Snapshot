@@ -49,7 +49,7 @@ Tech Stack
 - Amazon EventBridge – Scheduling and automation
 - AWS IAM – Role-based access control
 
-Repository Structure
+## Repository Structure
 ```bash
 Automated-EBS-Snapshot
 ├── README.md
@@ -63,7 +63,7 @@ Automated-EBS-Snapshot
     └── Architecture Diagram.png
 ```
 
-Screenshots
+## Screenshots
 
 ![](screenshots/1751906785056.jpg)
 ![](screenshots/1751906785037.jpg)
