@@ -49,9 +49,9 @@ Tech Stack
 - Amazon EventBridge – Scheduling and automation
 - AWS IAM – Role-based access control
 
-Directory Structure
+Repository Structure
 ```bash
-.
+Automated-EBS-Snapshot
 ├── README.md
 ├── lambda_function.py
 └── screenshots
